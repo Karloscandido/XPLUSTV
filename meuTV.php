@@ -1,30 +1,30 @@
 {
   "user_info": {
-    "username": "tanaka",
-    "password": "302718",
-    "message": "Welcome to XUI.one",
+    "username": "161364",
+    "password": "245193",
+    "message": "LOUVADO SEJA DEUS...",
     "auth": 1,
     "status": "Active",
-    "exp_date": "1838672159",
+    "exp_date": "1918411061",
     "is_trial": "0",
     "active_cons": "0",
-    "max_connections": "60",
+    "created_at": "1758052661",
+    "max_connections": "2",
     "allowed_output_formats": [
       "m3u8",
-      "ts",
-      "rtmp"
+      "ts"
     ]
   },
   "server_info": {
     "xui": true,
-    "version": "1.5.13",
-    "revision": null,
-    "url": "topflx.online",
+    "version": "1.5.5",
+    "revision": 2,
+    "url": "fontez.cc",
     "port": "80",
     "https_port": "443",
     "server_protocol": "http",
     "rtmp_port": "8880",
-    "timestamp_now": 1776528376,
-    "timezone": "America/Manaus"
+    "timestamp_now": 1776567306,
+    "timezone": "America/Sao_Paulo"
   }
 }
