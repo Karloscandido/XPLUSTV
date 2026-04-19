@@ -1,15 +1,15 @@
 {
   "user_info": {
-    "username": "161364",
-    "password": "245193",
-    "message": "LOUVADO SEJA DEUS...",
+    "username": "332946",
+    "password": "ycHWZM",
+    "message": null,
     "auth": 1,
     "status": "Active",
-    "exp_date": "1918411061",
+    "exp_date": null,
     "is_trial": "0",
-    "active_cons": "0",
-    "created_at": "1758052661",
-    "max_connections": "2",
+    "active_cons": 0,
+    "created_at": "1585781806",
+    "max_connections": "50",
     "allowed_output_formats": [
       "m3u8",
       "ts"
@@ -19,12 +19,12 @@
     "xui": true,
     "version": "1.5.5",
     "revision": 2,
-    "url": "fontez.cc",
+    "url": "lbplay.ddns.me",
     "port": "80",
     "https_port": "443",
     "server_protocol": "http",
     "rtmp_port": "8880",
-    "timestamp_now": 1776567306,
+    "timestamp_now": 1776568535,
     "timezone": "America/Sao_Paulo"
   }
 }
