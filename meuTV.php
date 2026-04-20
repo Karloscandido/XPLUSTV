@@ -2,13 +2,14 @@
   "user_info": {
     "username": "161364",
     "password": "245193",
+    "message": "666",
     "auth": 1,
     "status": "Active",
     "exp_date": "1918411061",
     "is_trial": "0",
-    "active_cons": "000",
+    "active_cons": "0",
     "created_at": "1758052661",
-    "max_connections": "000",
+    "max_connections": "0",
     "allowed_output_formats": [
       "m3u8",
       "ts"
@@ -23,5 +24,7 @@
     "https_port": "443",
     "server_protocol": "http",
     "rtmp_port": "8880",
+    "timestamp_now": 1776648377,
+    "timezone": "America/Sao_Paulo"
   }
 }
