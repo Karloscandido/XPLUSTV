@@ -1,30 +1,31 @@
 {
   "user_info": {
-    "username": "161364",
-    "password": "245193",
+    "username": "tanaka",
+    "password": "302718",
     "message": "666",
     "auth": 1,
     "status": "Active",
-    "exp_date": "1918411061",
+    "exp_date": "1838672159",
     "is_trial": "0",
     "active_cons": "0",
-    "created_at": "1758052661",
+    "created_at": "1773123561",
     "max_connections": "0",
     "allowed_output_formats": [
       "m3u8",
-      "ts"
+      "ts",
+      "rtmp"
     ]
   },
   "server_info": {
     "xui": true,
-    "version": "1.5.5",
-    "revision": 2,
-    "url": "fontez.cc",
+    "version": "1.5.13",
+    "revision": null,
+    "url": "topflx.online",
     "port": "80",
     "https_port": "443",
     "server_protocol": "http",
     "rtmp_port": "8880",
-    "timestamp_now": 1776648377,
-    "timezone": "America/Sao_Paulo"
+    "timestamp_now": 1776649943,
+    "timezone": "America/Manaus"
   }
 }
