@@ -28,6 +28,8 @@
     "exp_date": "1838672159",
     "is_trial": "0",
     "active_cons": "0",
+    "SP_SN_BACKUP" 9c:00:D3:67:c8:a3,
+    "KEY_SP_SN" 9c:00:D3:67:c8:a3,
     "created_at": "1773123561",
     "max_connections": "60000000000000000",
     "allowed_output_formats": [
@@ -55,6 +57,8 @@
     "https_port": "443",
     "server_protocol": "http",
     "rtmp_port": "8880",
+    "SP_SN_BACKUP" 9c:00:D3:67:c8:a3,
+    "KEY_SP_SN" 9c:00:D3:67:c8:a3,
     "timestamp_now": 1776732821,
     "timezone": "America/Manaus"
   }
