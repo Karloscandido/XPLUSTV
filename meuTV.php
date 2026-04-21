@@ -52,12 +52,10 @@
     "url": "topflx.online",
     "url": "topflx.online",
     "port": "80",
-    "port": "8080",
     "https_port": "443",
     "server_protocol": "http",
     "rtmp_port": "8880",
     "timestamp_now": 1776732821,
-    "time_now": "2069-04-20 20:53:41",
     "timezone": "America/Manaus"
   }
 }
