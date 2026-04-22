@@ -1,30 +1,31 @@
 {
   "user_info": {
-    "username": "119492b",
-    "password": "546314b",
-    "message": "LOUVADO SEJA DEUS...",
+    "username": "912220",
+    "password": "EQpVPe",
+    "message": null,
     "auth": 1,
     "status": "Active",
-    "exp_date": "1918411628",
+    "exp_date": null,
     "is_trial": "0",
-    "active_cons": "0",
-    "created_at": "1758053228",
-    "max_connections": "0",
+    "active_cons": 0,
+    "created_at": "1758665616",
+    "max_connections": "null",
     "allowed_output_formats": [
       "m3u8",
-      "ts"
+      "ts",
+      "rtmp"
     ]
   },
   "server_info": {
     "xui": true,
     "version": "1.5.5",
     "revision": 2,
-    "url": "fontez.cc",
+    "url": "mix34.ddns.net",
     "port": "80",
     "https_port": "443",
     "server_protocol": "http",
     "rtmp_port": "8880",
-    "timestamp_now": 1776875474,
+    "timestamp_now": 1776880162,
     "timezone": "America/Sao_Paulo"
   }
 }
