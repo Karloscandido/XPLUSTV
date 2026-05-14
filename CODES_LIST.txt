@@ -15,6 +15,7 @@ MeuOvo2
 MeuOvo3
 MeuOvo4
 MeuOvo5
+cavalo
 452601
 452602
 452603
